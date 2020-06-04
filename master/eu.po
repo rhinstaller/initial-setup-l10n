@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-25 16:31+0200\n"
+"POT-Creation-Date: 2020-05-22 01:49+0200\n"
 "PO-Revision-Date: 2019-08-28 03:22+0000\n"
 "Last-Translator: Jiri Konecny <jkonecny@redhat.com>\n"
 "Language-Team: Basque\n"
@@ -18,7 +18,8 @@ msgstr ""
 #: ../initial_setup/common.py:140
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
-"You might end up with an unusable system if you do. Unless the License agreement is accepted, the system will be rebooted."
+"You might end up with an unusable system if you do. Unless the License "
+"agreement is accepted, the system will be rebooted."
 msgstr "Ziur zaude konfigurazio prozesutik irten nahi duzula?"
 
 #: ../initial_setup/common.py:144
@@ -73,8 +74,8 @@ msgstr "_Lizentzia informazioa"
 #: ../initial_setup/gui/spokes/eula.py:50
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr ""
-"Ez da lizentzia topatu. Mesedez, eman hau jakitera "
-"http://bugzilla.redhat.com helbidean"
+"Ez da lizentzia topatu. Mesedez, eman hau jakitera http://bugzilla.redhat."
+"com helbidean"
 
 #: ../initial_setup/gui/spokes/eula.py:89
 msgid "No license found"

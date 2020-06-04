@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-25 16:31+0200\n"
+"POT-Creation-Date: 2020-05-22 01:49+0200\n"
 "PO-Revision-Date: 2018-08-25 08:10+0000\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Turkish\n"
@@ -18,10 +18,12 @@ msgstr ""
 #: ../initial_setup/common.py:140
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
-"You might end up with an unusable system if you do. Unless the License agreement is accepted, the system will be rebooted."
+"You might end up with an unusable system if you do. Unless the License "
+"agreement is accepted, the system will be rebooted."
 msgstr ""
 "Yapılandırma sürecini sonlandırmak istediğinizden emin misiniz?\n"
-"Eğer öyleyse, kullanılamaz bir sistemle kalabilirsiniz. Lisans sözleşmesi kabul edilmezse sistem yeniden başlatılacaktır."
+"Eğer öyleyse, kullanılamaz bir sistemle kalabilirsiniz. Lisans sözleşmesi "
+"kabul edilmezse sistem yeniden başlatılacaktır."
 
 #: ../initial_setup/common.py:144
 msgid ""
@@ -74,8 +76,7 @@ msgstr "_Lisans Bilgisi"
 
 #: ../initial_setup/gui/spokes/eula.py:50
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
-msgstr ""
-"Lisans bulunamadı. Bunu http://bugzilla.redhat.com adresinden bildirin"
+msgstr "Lisans bulunamadı. Bunu http://bugzilla.redhat.com adresinden bildirin"
 
 #: ../initial_setup/gui/spokes/eula.py:89
 msgid "No license found"
