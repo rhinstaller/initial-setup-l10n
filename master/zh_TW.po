@@ -6,21 +6,22 @@
 # Cheng-Chia Tseng <pswo10680@gmail.com>, 2013
 # Terry Chuang <tchuang@redhat.com>, 2014
 # Peter Pan <pan93412@gmail.com>, 2018. #zanata
+# Yi-Jyun Pan <pan93412@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-22 01:49+0200\n"
-"PO-Revision-Date: 2018-08-22 01:31+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/initial-"
-"setup/language/zh_TW/)\n"
+"PO-Revision-Date: 2020-06-07 06:40+0000\n"
+"Last-Translator: Yi-Jyun Pan <pan93412@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <https://translate.fedoraproject.org/"
+"projects/initial-setup/master/zh_TW/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Zanata 4.6.2\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #: ../initial_setup/common.py:140
 msgid ""
@@ -99,7 +100,7 @@ msgstr "授權條款："
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr "我同意授權條款(_A)"
+msgstr "我同意授權條款(_A)。"
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
