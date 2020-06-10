@@ -1,0 +1,115 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Cheng-Chia Tseng <pswo10680@gmail.com>, 2013
+# Terry Chuang <tchuang@redhat.com>, 2014
+# Peter Pan <pan93412@gmail.com>, 2018. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-26 17:19+0200\n"
+"PO-Revision-Date: 2018-08-22 01:31+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/initial-setup/language/zh_TW/)\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Zanata 4.6.2\n"
+
+#: ../initial_setup/common.py:140
+msgid ""
+"Are you sure you want to quit the configuration process?\n"
+"You might end up with an unusable system if you do. Unless the License agreement is accepted, the system will be rebooted."
+msgstr ""
+"確定退出設定程序？\n"
+"如果你這麼做，你可能會得到一個無法使用的系統。除非同意授權條款，否則系統將會重新啟動。"
+
+#: ../initial_setup/common.py:144
+msgid ""
+"Are you sure you want to quit the configuration process?\n"
+"You might end up with unusable system if you do."
+msgstr ""
+"您確定要退出組態調整程序？\n"
+"若如此，您的系統最終可能會不穩定。"
+
+#: ../initial_setup/common.py:151
+msgid "LICENSING"
+msgstr "授權"
+
+#: ../initial_setup/tui/spokes/eula.py:30
+msgid "License information"
+msgstr "授權資訊"
+
+#. make the options aligned to the same column (the checkbox has the
+#. '[ ]' prepended)
+#: ../initial_setup/tui/spokes/eula.py:44
+msgid "Read the License Agreement"
+msgstr "閱讀授權條款"
+
+#: ../initial_setup/tui/spokes/eula.py:47
+msgid "I accept the license agreement."
+msgstr "我同意授權條款。"
+
+#: ../initial_setup/tui/spokes/eula.py:64
+#: ../initial_setup/gui/spokes/eula.py:91
+msgid "License accepted"
+msgstr "已同意授權條款"
+
+#: ../initial_setup/tui/spokes/eula.py:64
+#: ../initial_setup/gui/spokes/eula.py:91
+msgid "License not accepted"
+msgstr "未同意授權條款"
+
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:14
+#, python-format
+msgid "Initial setup of %(product)s"
+msgstr "%(product)s 的初次設置"
+
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:16
+msgid "Initial setup"
+msgstr "初次設置"
+
+#: ../initial_setup/gui/spokes/eula.py:31
+msgid "_License Information"
+msgstr "授權資訊(_L)"
+
+#: ../initial_setup/gui/spokes/eula.py:50
+msgid "No license found. Please report this at http://bugzilla.redhat.com"
+msgstr "找不到授權文件。請在 http://bugzilla.redhat.com 回報這個問題"
+
+#: ../initial_setup/gui/spokes/eula.py:89
+msgid "No license found"
+msgstr "找不到授權文件"
+
+#: tmp/eula.glade.h:1
+msgid "License Information"
+msgstr "授權資訊"
+
+#: tmp/eula.glade.h:2
+msgid "License Agreement:"
+msgstr "授權條款："
+
+#: tmp/eula.glade.h:3
+msgid "I _accept the license agreement."
+msgstr "我同意授權條款(_A)"
+
+#: tmp/initial_setup.glade.h:1
+msgid "DISTRIBUTION SETUP"
+msgstr "發行版設定"
+
+#: tmp/initial_setup.glade.h:2
+msgid "INITIAL SETUP"
+msgstr "初始設定"
+
+#: tmp/initial_setup.glade.h:3
+msgid "_QUIT"
+msgstr "退出(_Q)"
+
+#: tmp/initial_setup.glade.h:4
+msgid "_FINISH CONFIGURATION"
+msgstr "設定完成(_F)"
