@@ -5,21 +5,22 @@
 # Translators:
 # Kris Thomsen <lakristho@gmail.com>, 2013
 # Kris <mail@kristhomsen.dk>, 2015. #zanata
-# scootergrisen <scootergrisen@gmail.com>, 2018. #zanata
+# scootergrisen <scootergrisen@gmail.com>, 2018. #zanata, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-26 17:19+0200\n"
-"PO-Revision-Date: 2018-08-15 12:33+0000\n"
+"PO-Revision-Date: 2020-10-10 17:30+0000\n"
 "Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
-"Language-Team: Danish (http://www.transifex.com/projects/p/initial-setup/language/da/)\n"
+"Language-Team: Danish <https://translate.fedoraproject.org/projects/"
+"initial-setup/rhel-8/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.2.2\n"
 
 #: ../initial_setup/common.py:140
 msgid ""
@@ -97,7 +98,7 @@ msgstr "Licensaftale:"
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr "Jeg _accepterer licensaftalen:"
+msgstr "Jeg _accepterer licensaftalen."
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
@@ -113,4 +114,4 @@ msgstr "_AFSLUT"
 
 #: tmp/initial_setup.glade.h:4
 msgid "_FINISH CONFIGURATION"
-msgstr "_GENNEMFØR KONFIGURATION"
+msgstr "_FÆRDIGGØR KONFIGURATION"
