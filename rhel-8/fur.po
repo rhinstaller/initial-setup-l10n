@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-26 17:19+0200\n"
+"POT-Creation-Date: 2020-11-24 22:28+0100\n"
 "PO-Revision-Date: 2020-09-11 12:29+0000\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <https://translate.fedoraproject.org/projects/"
@@ -18,7 +18,8 @@ msgstr ""
 #: ../initial_setup/common.py:140
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
-"You might end up with an unusable system if you do. Unless the License agreement is accepted, the system will be rebooted."
+"You might end up with an unusable system if you do. Unless the License "
+"agreement is accepted, the system will be rebooted."
 msgstr ""
 "Jessî pardabon dal procès di configurazion?\n"
 "Cussì si podarès vê un sisteme inutilizabil. Se no si acete l'acuardi di "
@@ -51,12 +52,12 @@ msgid "I accept the license agreement."
 msgstr "O aceti l'acuardi di licence."
 
 #: ../initial_setup/tui/spokes/eula.py:64
-#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/gui/spokes/eula.py:96
 msgid "License accepted"
 msgstr "Licence acetade"
 
 #: ../initial_setup/tui/spokes/eula.py:64
-#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/gui/spokes/eula.py:96
 msgid "License not accepted"
 msgstr "Licence no acetade"
 
@@ -73,12 +74,12 @@ msgstr "Configurazion iniziâl"
 msgid "_License Information"
 msgstr "_Informazions su la licence"
 
-#: ../initial_setup/gui/spokes/eula.py:50
+#: ../initial_setup/gui/spokes/eula.py:55
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr ""
 "Nissune licence cjatade. Par plasê segnalilu su http://bugzilla.redhat.com"
 
-#: ../initial_setup/gui/spokes/eula.py:89
+#: ../initial_setup/gui/spokes/eula.py:94
 msgid "No license found"
 msgstr "Nissune licence cjatade"
 

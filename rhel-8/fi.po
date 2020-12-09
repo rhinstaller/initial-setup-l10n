@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-26 17:19+0200\n"
+"POT-Creation-Date: 2020-11-24 22:28+0100\n"
 "PO-Revision-Date: 2018-08-19 12:22+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish\n"
@@ -19,10 +19,12 @@ msgstr ""
 #: ../initial_setup/common.py:140
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
-"You might end up with an unusable system if you do. Unless the License agreement is accepted, the system will be rebooted."
+"You might end up with an unusable system if you do. Unless the License "
+"agreement is accepted, the system will be rebooted."
 msgstr ""
 "Haluatko varmasti lopettaa määritysvaiheen?\n"
-"Järjestelmäsi saattaa päätyä käyttökelvottomaan tilaan, jos lopetat. Jos lisenssisopimusta ei hyväksytä, järjestelmä käynnistetään uudelleen."
+"Järjestelmäsi saattaa päätyä käyttökelvottomaan tilaan, jos lopetat. Jos "
+"lisenssisopimusta ei hyväksytä, järjestelmä käynnistetään uudelleen."
 
 #: ../initial_setup/common.py:144
 msgid ""
@@ -51,12 +53,12 @@ msgid "I accept the license agreement."
 msgstr "Hyväksyn lisenssisopimuksen."
 
 #: ../initial_setup/tui/spokes/eula.py:64
-#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/gui/spokes/eula.py:96
 msgid "License accepted"
 msgstr "Lisenssi hyväksytty"
 
 #: ../initial_setup/tui/spokes/eula.py:64
-#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/gui/spokes/eula.py:96
 msgid "License not accepted"
 msgstr "Lisenssiä ei hyväksytty"
 
@@ -73,11 +75,11 @@ msgstr "Alkumääritykset"
 msgid "_License Information"
 msgstr "_Lisenssitiedot"
 
-#: ../initial_setup/gui/spokes/eula.py:50
+#: ../initial_setup/gui/spokes/eula.py:55
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr "Lisenssiä ei löytynyt. Ilmoita ongelmasta: http://bugzilla.redhat.com"
 
-#: ../initial_setup/gui/spokes/eula.py:89
+#: ../initial_setup/gui/spokes/eula.py:94
 msgid "No license found"
 msgstr "Lisenssiä ei löytynyt"
 

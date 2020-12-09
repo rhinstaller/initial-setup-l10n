@@ -10,24 +10,28 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-26 17:19+0200\n"
+"POT-Creation-Date: 2020-11-24 22:28+0100\n"
 "PO-Revision-Date: 2018-08-23 08:53+0000\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/initial-setup/language/ru/)\n"
+"Language-Team: Russian (http://www.transifex.com/projects/p/initial-setup/"
+"language/ru/)\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Zanata 4.6.2\n"
 
 #: ../initial_setup/common.py:140
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
-"You might end up with an unusable system if you do. Unless the License agreement is accepted, the system will be rebooted."
+"You might end up with an unusable system if you do. Unless the License "
+"agreement is accepted, the system will be rebooted."
 msgstr ""
 "Вы действительно хотите прервать процесс конфигурации?\n"
-"Это может нарушить работоспособность системы. Если вы не примите условия лицензии, система будет перезагружена."
+"Это может нарушить работоспособность системы. Если вы не примите условия "
+"лицензии, система будет перезагружена."
 
 #: ../initial_setup/common.py:144
 msgid ""
@@ -56,12 +60,12 @@ msgid "I accept the license agreement."
 msgstr "Да, я принимаю лицензионное соглашение"
 
 #: ../initial_setup/tui/spokes/eula.py:64
-#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/gui/spokes/eula.py:96
 msgid "License accepted"
 msgstr "Лицензия принята"
 
 #: ../initial_setup/tui/spokes/eula.py:64
-#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/gui/spokes/eula.py:96
 msgid "License not accepted"
 msgstr "Лицензия не принята"
 
@@ -78,11 +82,11 @@ msgstr "Первая настройка"
 msgid "_License Information"
 msgstr "_Информация о лицензии"
 
-#: ../initial_setup/gui/spokes/eula.py:50
+#: ../initial_setup/gui/spokes/eula.py:55
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr "Лицензия не найдена. Сообщите об этом в http://bugzilla.redhat.com"
 
-#: ../initial_setup/gui/spokes/eula.py:89
+#: ../initial_setup/gui/spokes/eula.py:94
 msgid "No license found"
 msgstr "Лицензия не найдена"
 

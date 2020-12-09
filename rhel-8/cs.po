@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-26 17:19+0200\n"
+"POT-Creation-Date: 2020-11-24 22:28+0100\n"
 "PO-Revision-Date: 2018-08-10 07:08+0000\n"
 "Last-Translator: Michal Konečný <michalkonec666@gmail.com>\n"
 "Language-Team: Czech\n"
@@ -18,10 +18,12 @@ msgstr ""
 #: ../initial_setup/common.py:140
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
-"You might end up with an unusable system if you do. Unless the License agreement is accepted, the system will be rebooted."
+"You might end up with an unusable system if you do. Unless the License "
+"agreement is accepted, the system will be rebooted."
 msgstr ""
 "Opravdu chcete ukončit počáteční nastavení systému ?\n"
-"Výsledkem může být nefunkční systém. Není-li licenční dohoda přijata, bude systém restartován."
+"Výsledkem může být nefunkční systém. Není-li licenční dohoda přijata, bude "
+"systém restartován."
 
 #: ../initial_setup/common.py:144
 msgid ""
@@ -50,12 +52,12 @@ msgid "I accept the license agreement."
 msgstr "Přijímám licenční smlouvu."
 
 #: ../initial_setup/tui/spokes/eula.py:64
-#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/gui/spokes/eula.py:96
 msgid "License accepted"
 msgstr "Licence přijata"
 
 #: ../initial_setup/tui/spokes/eula.py:64
-#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/gui/spokes/eula.py:96
 msgid "License not accepted"
 msgstr "Licence nepřijata"
 
@@ -72,12 +74,12 @@ msgstr "Počáteční nastavení"
 msgid "_License Information"
 msgstr "Informace o _licenci"
 
-#: ../initial_setup/gui/spokes/eula.py:50
+#: ../initial_setup/gui/spokes/eula.py:55
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr ""
 "Licence nebyla nalezena. Nahlaste to prosím na http://bugzilla.redhat.com"
 
-#: ../initial_setup/gui/spokes/eula.py:89
+#: ../initial_setup/gui/spokes/eula.py:94
 msgid "No license found"
 msgstr "Licence nebyla nalezena"
 

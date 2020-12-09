@@ -11,11 +11,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-26 17:19+0200\n"
+"POT-Creation-Date: 2020-11-24 22:28+0100\n"
 "PO-Revision-Date: 2020-08-18 16:29+0000\n"
 "Last-Translator: Emilio Herrera <ehespinosa57@gmail.com>\n"
-"Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
-"initial-setup/rhel-8/es/>\n"
+"Language-Team: Spanish <https://translate.fedoraproject.org/projects/initial-"
+"setup/rhel-8/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,10 +26,12 @@ msgstr ""
 #: ../initial_setup/common.py:140
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
-"You might end up with an unusable system if you do. Unless the License agreement is accepted, the system will be rebooted."
+"You might end up with an unusable system if you do. Unless the License "
+"agreement is accepted, the system will be rebooted."
 msgstr ""
 "¿Está seguro de que desea abandonar el proceso de configuración?\n"
-"Puede ser que el sistema quede inutilizable si lo hace. El sistema se reiniciará a menos que se acepte el acuerdo de licencia."
+"Puede ser que el sistema quede inutilizable si lo hace. El sistema se "
+"reiniciará a menos que se acepte el acuerdo de licencia."
 
 #: ../initial_setup/common.py:144
 msgid ""
@@ -58,12 +60,12 @@ msgid "I accept the license agreement."
 msgstr "Acepto el acuerdo de licencia."
 
 #: ../initial_setup/tui/spokes/eula.py:64
-#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/gui/spokes/eula.py:96
 msgid "License accepted"
 msgstr "Se ha aceptado la licencia"
 
 #: ../initial_setup/tui/spokes/eula.py:64
-#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/gui/spokes/eula.py:96
 msgid "License not accepted"
 msgstr "No se ha aceptado la licencia"
 
@@ -80,12 +82,12 @@ msgstr "Configuración inicial"
 msgid "_License Information"
 msgstr "Información de _licencia"
 
-#: ../initial_setup/gui/spokes/eula.py:50
+#: ../initial_setup/gui/spokes/eula.py:55
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr ""
 "No se encontró la licencia. Por favor informe en http://bugzilla.redhat.com"
 
-#: ../initial_setup/gui/spokes/eula.py:89
+#: ../initial_setup/gui/spokes/eula.py:94
 msgid "No license found"
 msgstr "No se encontró la licencia"
 
