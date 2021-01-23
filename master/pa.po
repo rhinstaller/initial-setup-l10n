@@ -7,6 +7,7 @@
 # A S Alam <apreet.alam@gmail.com>, 2013
 # A S Alam <aalam@fedoraproject.org>, 2015. #zanata
 # A S Alam <aalam@fedoraproject.org>, 2019. #zanata
+# A S Alam <amanpreet.alam@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
