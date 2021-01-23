@@ -6,21 +6,22 @@
 # Amandeep Singh Saini <asaini@redhat.com>, 2013
 # A S Alam <apreet.alam@gmail.com>, 2013
 # A S Alam <aalam@fedoraproject.org>, 2015. #zanata
+# A S Alam <amanpreet.alam@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-24 22:28+0100\n"
-"PO-Revision-Date: 2015-01-20 10:21+0000\n"
-"Last-Translator: A S Alam <aalam@fedoraproject.org>\n"
-"Language-Team: Panjabi (Punjabi) (http://www.transifex.com/projects/p/"
-"initial-setup/language/pa/)\n"
+"PO-Revision-Date: 2021-01-24 17:38+0000\n"
+"Last-Translator: A S Alam <amanpreet.alam@gmail.com>\n"
+"Language-Team: Punjabi <https://translate.fedoraproject.org/projects/"
+"initial-setup/rhel-8/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: ../initial_setup/common.py:140
 msgid ""
@@ -28,6 +29,9 @@ msgid ""
 "You might end up with an unusable system if you do. Unless the License "
 "agreement is accepted, the system will be rebooted."
 msgstr ""
+"ਕੀ ਤੁਸੀਂ ਸੰਰਚਨਾ ਕਾਰਵਾਈ ਨੂੰ ਛੱਡਣਾ ਚਾਹੁੰਦੇ ਹੋ?\n"
+"ਜੇ ਤੁਸੀਂ ਕਰਦੇ ਹੋ ਤਾਂ ਨਤੀਜਾ ਇੱਕ ਗੈਰ-ਵਰਤੋਂਯੋਗ ਸਿਸਟਮ ਦੇ ਰੂਪ ਵਿੱਚ ਹੋ ਸਕਦਾ ਹੈ। ਲਸੰ"
+"ਸ ਇਕਰਾਰਨਾਮਾ ਸਵੀਕਾਰ ਹੋਣ ਤੱਕ, ਸਿਸਟਮ ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾਵੇਗਾ।"
 
 #: ../initial_setup/common.py:144
 msgid ""
