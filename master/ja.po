@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-22 01:49+0200\n"
+"POT-Creation-Date: 2021-02-22 18:59+0100\n"
 "PO-Revision-Date: 2018-09-11 12:55+0000\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: Japanese (http://www.transifex.com/projects/p/initial-setup/"
@@ -21,7 +21,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Zanata 4.6.2\n"
 
-#: ../initial_setup/common.py:140
+#: ../initial_setup/common.py:103
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
 "You might end up with an unusable system if you do. Unless the License "
@@ -31,7 +31,7 @@ msgstr ""
 "設定プロセスを終了するとシステムが使用できない状態になる可能性があります。ラ"
 "イセンス契約に同意しない限り、システムは再起動されます。"
 
-#: ../initial_setup/common.py:144
+#: ../initial_setup/common.py:107
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
 "You might end up with unusable system if you do."
@@ -39,40 +39,40 @@ msgstr ""
 "本当に設定プロセスを終了しますか？\n"
 "そうすると、システムを使用できない可能性があります。"
 
-#: ../initial_setup/common.py:151
+#: ../initial_setup/common.py:115
 msgid "LICENSING"
 msgstr "ライセンス"
 
-#: ../initial_setup/tui/spokes/eula.py:30
+#: ../initial_setup/tui/spokes/eula.py:28
 msgid "License information"
 msgstr "ライセンス情報"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
-#: ../initial_setup/tui/spokes/eula.py:44
+#: ../initial_setup/tui/spokes/eula.py:42
 msgid "Read the License Agreement"
 msgstr "ライセンス契約をお読みください"
 
-#: ../initial_setup/tui/spokes/eula.py:47
+#: ../initial_setup/tui/spokes/eula.py:45
 msgid "I accept the license agreement."
 msgstr "ライセンス契約に同意します。"
 
-#: ../initial_setup/tui/spokes/eula.py:64
+#: ../initial_setup/tui/spokes/eula.py:62
 #: ../initial_setup/gui/spokes/eula.py:91
 msgid "License accepted"
 msgstr "ライセンスに同意"
 
-#: ../initial_setup/tui/spokes/eula.py:64
+#: ../initial_setup/tui/spokes/eula.py:62
 #: ../initial_setup/gui/spokes/eula.py:91
 msgid "License not accepted"
 msgstr "ライセンスに同意しない"
 
-#: ../initial_setup/tui/hubs/initial_setup_hub.py:14
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:15
 #, python-format
 msgid "Initial setup of %(product)s"
 msgstr "%(product)s の初期セットアップ"
 
-#: ../initial_setup/tui/hubs/initial_setup_hub.py:16
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:17
 msgid "Initial setup"
 msgstr "初期セットアップ"
 

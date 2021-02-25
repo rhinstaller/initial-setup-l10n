@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-22 01:49+0200\n"
+"POT-Creation-Date: 2021-02-22 18:59+0100\n"
 "PO-Revision-Date: 2018-07-30 06:42+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish (http://www.transifex.com/projects/p/initial-setup/"
@@ -24,7 +24,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Zanata 4.6.2\n"
 
-#: ../initial_setup/common.py:140
+#: ../initial_setup/common.py:103
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
 "You might end up with an unusable system if you do. Unless the License "
@@ -34,7 +34,7 @@ msgstr ""
 "Zakończenie go może pozostawić system w stanie nieużywalnym. Komputer "
 "zostanie ponownie uruchomiony, jeśli warunki licencji nie zostaną przyjęte."
 
-#: ../initial_setup/common.py:144
+#: ../initial_setup/common.py:107
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
 "You might end up with unusable system if you do."
@@ -42,40 +42,40 @@ msgstr ""
 "Na pewno zakończyć proces konfiguracji?\n"
 "Zakończenie go może pozostawić system w stanie nieużywalnym."
 
-#: ../initial_setup/common.py:151
+#: ../initial_setup/common.py:115
 msgid "LICENSING"
 msgstr "LICENCJA"
 
-#: ../initial_setup/tui/spokes/eula.py:30
+#: ../initial_setup/tui/spokes/eula.py:28
 msgid "License information"
 msgstr "Informacje o licencji"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
-#: ../initial_setup/tui/spokes/eula.py:44
+#: ../initial_setup/tui/spokes/eula.py:42
 msgid "Read the License Agreement"
 msgstr "Proszę przeczytać warunki licencji"
 
-#: ../initial_setup/tui/spokes/eula.py:47
+#: ../initial_setup/tui/spokes/eula.py:45
 msgid "I accept the license agreement."
 msgstr "Przyjmuję warunki licencji"
 
-#: ../initial_setup/tui/spokes/eula.py:64
+#: ../initial_setup/tui/spokes/eula.py:62
 #: ../initial_setup/gui/spokes/eula.py:91
 msgid "License accepted"
 msgstr "Wyrażono zgodę na licencję"
 
-#: ../initial_setup/tui/spokes/eula.py:64
+#: ../initial_setup/tui/spokes/eula.py:62
 #: ../initial_setup/gui/spokes/eula.py:91
 msgid "License not accepted"
 msgstr "Nie wyrażono zgody na licencję"
 
-#: ../initial_setup/tui/hubs/initial_setup_hub.py:14
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:15
 #, python-format
 msgid "Initial setup of %(product)s"
 msgstr "Początkowe ustawienia systemu %(product)s"
 
-#: ../initial_setup/tui/hubs/initial_setup_hub.py:16
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:17
 msgid "Initial setup"
 msgstr "Początkowe ustawienia"
 

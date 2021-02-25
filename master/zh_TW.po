@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-22 01:49+0200\n"
+"POT-Creation-Date: 2021-02-22 18:59+0100\n"
 "PO-Revision-Date: 2020-06-07 06:40+0000\n"
 "Last-Translator: Yi-Jyun Pan <pan93412@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.fedoraproject.org/"
@@ -23,7 +23,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.0.4\n"
 
-#: ../initial_setup/common.py:140
+#: ../initial_setup/common.py:103
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
 "You might end up with an unusable system if you do. Unless the License "
@@ -33,7 +33,7 @@ msgstr ""
 "如果你這麼做，你可能會得到一個無法使用的系統。除非同意授權條款，否則系統將會"
 "重新啟動。"
 
-#: ../initial_setup/common.py:144
+#: ../initial_setup/common.py:107
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
 "You might end up with unusable system if you do."
@@ -41,40 +41,40 @@ msgstr ""
 "您確定要退出組態調整程序？\n"
 "若如此，您的系統最終可能會不穩定。"
 
-#: ../initial_setup/common.py:151
+#: ../initial_setup/common.py:115
 msgid "LICENSING"
 msgstr "授權"
 
-#: ../initial_setup/tui/spokes/eula.py:30
+#: ../initial_setup/tui/spokes/eula.py:28
 msgid "License information"
 msgstr "授權資訊"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
-#: ../initial_setup/tui/spokes/eula.py:44
+#: ../initial_setup/tui/spokes/eula.py:42
 msgid "Read the License Agreement"
 msgstr "閱讀授權條款"
 
-#: ../initial_setup/tui/spokes/eula.py:47
+#: ../initial_setup/tui/spokes/eula.py:45
 msgid "I accept the license agreement."
 msgstr "我同意授權條款。"
 
-#: ../initial_setup/tui/spokes/eula.py:64
+#: ../initial_setup/tui/spokes/eula.py:62
 #: ../initial_setup/gui/spokes/eula.py:91
 msgid "License accepted"
 msgstr "已同意授權條款"
 
-#: ../initial_setup/tui/spokes/eula.py:64
+#: ../initial_setup/tui/spokes/eula.py:62
 #: ../initial_setup/gui/spokes/eula.py:91
 msgid "License not accepted"
 msgstr "未同意授權條款"
 
-#: ../initial_setup/tui/hubs/initial_setup_hub.py:14
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:15
 #, python-format
 msgid "Initial setup of %(product)s"
 msgstr "%(product)s 的初次設置"
 
-#: ../initial_setup/tui/hubs/initial_setup_hub.py:16
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:17
 msgid "Initial setup"
 msgstr "初次設置"
 
