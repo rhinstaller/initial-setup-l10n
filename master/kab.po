@@ -7,13 +7,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-22 18:59+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-02-26 19:40+0000\n"
+"Last-Translator: Slimane Selyan Amiri <selyan.kab@gmail.com>\n"
+"Language-Team: Kabyle <https://translate.fedoraproject.org/projects/"
+"initial-setup/master/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -30,11 +33,11 @@ msgstr ""
 
 #: ../initial_setup/common.py:115
 msgid "LICENSING"
-msgstr ""
+msgstr "TURAGT"
 
 #: ../initial_setup/tui/spokes/eula.py:28
 msgid "License information"
-msgstr ""
+msgstr "Talɣut ɣef turagt"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
@@ -49,7 +52,7 @@ msgstr ""
 #: ../initial_setup/tui/spokes/eula.py:62
 #: ../initial_setup/gui/spokes/eula.py:91
 msgid "License accepted"
-msgstr ""
+msgstr "Turagt tettwaqbel"
 
 #: ../initial_setup/tui/spokes/eula.py:62
 #: ../initial_setup/gui/spokes/eula.py:91
@@ -63,7 +66,7 @@ msgstr ""
 
 #: ../initial_setup/tui/hubs/initial_setup_hub.py:17
 msgid "Initial setup"
-msgstr ""
+msgstr "Asebded amezwaru"
 
 #: ../initial_setup/gui/spokes/eula.py:31
 msgid "_License Information"
