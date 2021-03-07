@@ -4,21 +4,22 @@
 #
 # Translators:
 # Ludek Janda <ljanda@redhat.com>, 2018. #zanata, 2020.
+# simmon <simmon@nplob.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-22 18:59+0100\n"
-"PO-Revision-Date: 2020-07-15 12:29+0000\n"
-"Last-Translator: Ludek Janda <ljanda@redhat.com>\n"
-"Language-Team: Korean <https://translate.fedoraproject.org/projects/initial-"
-"setup/master/ko/>\n"
+"PO-Revision-Date: 2021-03-08 20:01+0000\n"
+"Last-Translator: simmon <simmon@nplob.com>\n"
+"Language-Team: Korean <https://translate.fedoraproject.org/projects/"
+"initial-setup/master/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -81,8 +82,7 @@ msgstr "라이센스 정보(_L)"
 
 #: ../initial_setup/gui/spokes/eula.py:50
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
-msgstr ""
-"라이센스를 찾을 수 없습니다. http://bugzilla.redhat.com에 보고해 주십시오."
+msgstr "라이센스를 찾을 수 없습니다. http://bugzilla.redhat.com에 보고해 주십시오"
 
 #: ../initial_setup/gui/spokes/eula.py:89
 msgid "No license found"
@@ -98,7 +98,7 @@ msgstr "라이센스 계약:"
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr "약관에 동의합니다. (_A)"
+msgstr "나는 약관에 동의합니다."
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
