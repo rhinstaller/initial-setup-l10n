@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-22 18:59+0100\n"
-"PO-Revision-Date: 2021-03-08 20:01+0000\n"
+"PO-Revision-Date: 2021-04-02 11:15+0000\n"
 "Last-Translator: simmon <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "initial-setup/master/ko/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.5.3\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -41,17 +41,17 @@ msgstr ""
 
 #: ../initial_setup/common.py:115
 msgid "LICENSING"
-msgstr "라이센스"
+msgstr "저작권"
 
 #: ../initial_setup/tui/spokes/eula.py:28
 msgid "License information"
-msgstr "라이센스 정보"
+msgstr "저작권 정보"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
 #: ../initial_setup/tui/spokes/eula.py:42
 msgid "Read the License Agreement"
-msgstr "라이센스 계약을 읽어보십시오"
+msgstr "저작권 계약을 읽어보십시오"
 
 #: ../initial_setup/tui/spokes/eula.py:45
 msgid "I accept the license agreement."
@@ -60,12 +60,12 @@ msgstr "약관에 동의합니다."
 #: ../initial_setup/tui/spokes/eula.py:62
 #: ../initial_setup/gui/spokes/eula.py:91
 msgid "License accepted"
-msgstr "라이센스에 동의합니다"
+msgstr "저작권에 동의합니다"
 
 #: ../initial_setup/tui/spokes/eula.py:62
 #: ../initial_setup/gui/spokes/eula.py:91
 msgid "License not accepted"
-msgstr "라이센스에 동의하지 않습니다"
+msgstr "저작권(license)에 동의하지 않습니다"
 
 #: ../initial_setup/tui/hubs/initial_setup_hub.py:15
 #, python-format
@@ -78,27 +78,27 @@ msgstr "초기 설정"
 
 #: ../initial_setup/gui/spokes/eula.py:31
 msgid "_License Information"
-msgstr "라이센스 정보(_L)"
+msgstr "_저작권 정보"
 
 #: ../initial_setup/gui/spokes/eula.py:50
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
-msgstr "라이센스를 찾을 수 없습니다. http://bugzilla.redhat.com에 보고해 주십시오"
+msgstr "저작권을 찾을 수 없습니다. http://bugzilla.redhat.com에 보고해 주십시오"
 
 #: ../initial_setup/gui/spokes/eula.py:89
 msgid "No license found"
-msgstr "라이센스를 찾을 수 없습니다"
+msgstr "저작권을 찾을 수 없습니다"
 
 #: tmp/eula.glade.h:1
 msgid "License Information"
-msgstr "라이센스 정보"
+msgstr "저작권 정보"
 
 #: tmp/eula.glade.h:2
 msgid "License Agreement:"
-msgstr "라이센스 계약:"
+msgstr "저작권 계약:"
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr "나는 약관에 동의합니다."
+msgstr "약관에 동의합니다."
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
