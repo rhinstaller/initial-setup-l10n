@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-22 18:59+0100\n"
+"POT-Creation-Date: 2021-03-23 17:10+0100\n"
 "PO-Revision-Date: 2020-06-24 10:40+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: Kazakh <https://translate.fedoraproject.org/projects/initial-"
@@ -42,6 +42,38 @@ msgstr ""
 msgid "LICENSING"
 msgstr "ЛИЦЕНЗИЯЛАУ"
 
+#: ../initial_setup/gui/spokes/eula.py:31
+msgid "_License Information"
+msgstr "_Лицензия ақпараты"
+
+#: ../initial_setup/gui/spokes/eula.py:50
+msgid "No license found. Please report this at http://bugzilla.redhat.com"
+msgstr ""
+"Лицензия табылмады. Бұл туралы http://bugzilla.redhat.com сайтында хабарлаңыз"
+
+#: ../initial_setup/gui/spokes/eula.py:89
+msgid "No license found"
+msgstr "Лицензия табылмады"
+
+#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/tui/spokes/eula.py:62
+msgid "License accepted"
+msgstr "Лицензия қабылданды"
+
+#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/tui/spokes/eula.py:62
+msgid "License not accepted"
+msgstr "Лицензия қабылданбады"
+
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:15
+#, python-format
+msgid "Initial setup of %(product)s"
+msgstr "%(product)s бастапқы баптаулары"
+
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:17
+msgid "Initial setup"
+msgstr "Бастапқы баптау"
+
 #: ../initial_setup/tui/spokes/eula.py:28
 msgid "License information"
 msgstr "Лицензия ақпараты"
@@ -55,38 +87,6 @@ msgstr "Лицензиялық келісімшартты оқу"
 #: ../initial_setup/tui/spokes/eula.py:45
 msgid "I accept the license agreement."
 msgstr "Мен лицензиялық келісімді қабылдаймын."
-
-#: ../initial_setup/tui/spokes/eula.py:62
-#: ../initial_setup/gui/spokes/eula.py:91
-msgid "License accepted"
-msgstr "Лицензия қабылданды"
-
-#: ../initial_setup/tui/spokes/eula.py:62
-#: ../initial_setup/gui/spokes/eula.py:91
-msgid "License not accepted"
-msgstr "Лицензия қабылданбады"
-
-#: ../initial_setup/tui/hubs/initial_setup_hub.py:15
-#, python-format
-msgid "Initial setup of %(product)s"
-msgstr "%(product)s бастапқы баптаулары"
-
-#: ../initial_setup/tui/hubs/initial_setup_hub.py:17
-msgid "Initial setup"
-msgstr "Бастапқы баптау"
-
-#: ../initial_setup/gui/spokes/eula.py:31
-msgid "_License Information"
-msgstr "_Лицензия ақпараты"
-
-#: ../initial_setup/gui/spokes/eula.py:50
-msgid "No license found. Please report this at http://bugzilla.redhat.com"
-msgstr ""
-"Лицензия табылмады. Бұл туралы http://bugzilla.redhat.com сайтында хабарлаңыз"
-
-#: ../initial_setup/gui/spokes/eula.py:89
-msgid "No license found"
-msgstr "Лицензия табылмады"
 
 #: tmp/eula.glade.h:1
 msgid "License Information"

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-22 18:59+0100\n"
+"POT-Creation-Date: 2021-03-23 17:10+0100\n"
 "PO-Revision-Date: 2018-08-11 03:49+0000\n"
 "Last-Translator: Meskó Balázs <meskobalazs@gmail.com>\n"
 "Language-Team: Hungarian (http://www.transifex.com/projects/p/initial-setup/"
@@ -45,6 +45,38 @@ msgstr ""
 msgid "LICENSING"
 msgstr "LICENCELÉS"
 
+#: ../initial_setup/gui/spokes/eula.py:31
+msgid "_License Information"
+msgstr "_Licencinformációk"
+
+#: ../initial_setup/gui/spokes/eula.py:50
+msgid "No license found. Please report this at http://bugzilla.redhat.com"
+msgstr ""
+"Nem található licenc. Kérjük jelentse ezt itt: http://bugzilla.redhat.com"
+
+#: ../initial_setup/gui/spokes/eula.py:89
+msgid "No license found"
+msgstr "Nem található licenc"
+
+#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/tui/spokes/eula.py:62
+msgid "License accepted"
+msgstr "Licenc elfogadva"
+
+#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/tui/spokes/eula.py:62
+msgid "License not accepted"
+msgstr "Licenc nincs elfogadva"
+
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:15
+#, python-format
+msgid "Initial setup of %(product)s"
+msgstr "Kezdeti beállítások: %(product)s számára"
+
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:17
+msgid "Initial setup"
+msgstr "Kezdeti beállítások"
+
 #: ../initial_setup/tui/spokes/eula.py:28
 msgid "License information"
 msgstr "Licencinformációk"
@@ -58,38 +90,6 @@ msgstr "Licencmegállapodás elolvasása"
 #: ../initial_setup/tui/spokes/eula.py:45
 msgid "I accept the license agreement."
 msgstr "Elfogadom a licencmegállapodást."
-
-#: ../initial_setup/tui/spokes/eula.py:62
-#: ../initial_setup/gui/spokes/eula.py:91
-msgid "License accepted"
-msgstr "Licenc elfogadva"
-
-#: ../initial_setup/tui/spokes/eula.py:62
-#: ../initial_setup/gui/spokes/eula.py:91
-msgid "License not accepted"
-msgstr "Licenc nincs elfogadva"
-
-#: ../initial_setup/tui/hubs/initial_setup_hub.py:15
-#, python-format
-msgid "Initial setup of %(product)s"
-msgstr "Kezdeti beállítások: %(product)s számára"
-
-#: ../initial_setup/tui/hubs/initial_setup_hub.py:17
-msgid "Initial setup"
-msgstr "Kezdeti beállítások"
-
-#: ../initial_setup/gui/spokes/eula.py:31
-msgid "_License Information"
-msgstr "_Licencinformációk"
-
-#: ../initial_setup/gui/spokes/eula.py:50
-msgid "No license found. Please report this at http://bugzilla.redhat.com"
-msgstr ""
-"Nem található licenc. Kérjük jelentse ezt itt: http://bugzilla.redhat.com"
-
-#: ../initial_setup/gui/spokes/eula.py:89
-msgid "No license found"
-msgstr "Nem található licenc"
 
 #: tmp/eula.glade.h:1
 msgid "License Information"
