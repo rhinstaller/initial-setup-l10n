@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-23 17:10+0100\n"
-"PO-Revision-Date: 2021-02-26 19:40+0000\n"
+"PO-Revision-Date: 2021-07-05 12:04+0000\n"
 "Last-Translator: Slimane Selyan Amiri <selyan.kab@gmail.com>\n"
-"Language-Team: Kabyle <https://translate.fedoraproject.org/projects/initial-"
-"setup/master/kab/>\n"
+"Language-Team: Kabyle <https://translate.fedoraproject.org/projects/"
+"initial-setup/master/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.7.1\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -102,7 +102,7 @@ msgstr ""
 
 #: tmp/initial_setup.glade.h:3
 msgid "_QUIT"
-msgstr ""
+msgstr "_Ffeɣ"
 
 #: tmp/initial_setup.glade.h:4
 msgid "_FINISH CONFIGURATION"
