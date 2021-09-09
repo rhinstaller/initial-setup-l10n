@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Ludek Janda <ljanda@redhat.com>, 2018. #zanata, 2020.
+# simmon <simmon@nplob.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-23 17:10+0100\n"
+"PO-Revision-Date: 2021-06-22 11:04+0000\n"
+"Last-Translator: simmon <simmon@nplob.com>\n"
+"Language-Team: Korean <https://translate.fedoraproject.org/projects/"
+"initial-setup/master/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7\n"
+
+#: ../initial_setup/common.py:103
+msgid ""
+"Are you sure you want to quit the configuration process?\n"
+"You might end up with an unusable system if you do. Unless the License "
+"agreement is accepted, the system will be rebooted."
+msgstr ""
+"정말로 설정 프로세스를 종료하시겠습니까?\n"
+"설정 프로세스를 종료하면 시스템을 사용하지 못할 수 도 있습니다. 약관에 동의하"
+"지 않으면 시스템이 다시 시작됩니다."
+
+#: ../initial_setup/common.py:107
+msgid ""
+"Are you sure you want to quit the configuration process?\n"
+"You might end up with unusable system if you do."
+msgstr ""
+"정말로 설정 프로세스를 종료하시겠습니까?\n"
+"설정 프로세스를 종료하면 시스템을 사용하지 못할 수 도 있습니다."
+
+#: ../initial_setup/common.py:115
+msgid "LICENSING"
+msgstr "저작권"
+
+#: ../initial_setup/gui/spokes/eula.py:31
+msgid "_License Information"
+msgstr "저작권 정보(_L)"
+
+#: ../initial_setup/gui/spokes/eula.py:50
+msgid "No license found. Please report this at http://bugzilla.redhat.com"
+msgstr ""
+"저작권을 찾을 수 없습니다. http://bugzilla.redhat.com에 보고해 주십시오"
+
+#: ../initial_setup/gui/spokes/eula.py:89
+msgid "No license found"
+msgstr "저작권을 찾을 수 없습니다"
+
+#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/tui/spokes/eula.py:62
+msgid "License accepted"
+msgstr "저작권에 동의합니다"
+
+#: ../initial_setup/gui/spokes/eula.py:91
+#: ../initial_setup/tui/spokes/eula.py:62
+msgid "License not accepted"
+msgstr "저작권(license)에 동의하지 않습니다"
+
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:15
+#, python-format
+msgid "Initial setup of %(product)s"
+msgstr "%(product)s의 초기 설정"
+
+#: ../initial_setup/tui/hubs/initial_setup_hub.py:17
+msgid "Initial setup"
+msgstr "초기 설정"
+
+#: ../initial_setup/tui/spokes/eula.py:28
+msgid "License information"
+msgstr "저작권 정보"
+
+#. make the options aligned to the same column (the checkbox has the
+#. '[ ]' prepended)
+#: ../initial_setup/tui/spokes/eula.py:42
+msgid "Read the License Agreement"
+msgstr "저작권 계약을 읽어보십시오"
+
+#: ../initial_setup/tui/spokes/eula.py:45
+msgid "I accept the license agreement."
+msgstr "약관에 동의합니다."
+
+#: tmp/eula.glade.h:1
+msgid "License Information"
+msgstr "저작권 정보"
+
+#: tmp/eula.glade.h:2
+msgid "License Agreement:"
+msgstr "저작권 계약:"
+
+#: tmp/eula.glade.h:3
+msgid "I _accept the license agreement."
+msgstr "약관에 동의합니다(_a)."
+
+#: tmp/initial_setup.glade.h:1
+msgid "DISTRIBUTION SETUP"
+msgstr "배포판 설정"
+
+#: tmp/initial_setup.glade.h:2
+msgid "INITIAL SETUP"
+msgstr "초기 설정"
+
+#: tmp/initial_setup.glade.h:3
+msgid "_QUIT"
+msgstr "종료(_Q)"
+
+#: tmp/initial_setup.glade.h:4
+msgid "_FINISH CONFIGURATION"
+msgstr "설정 완료 (_F)"
