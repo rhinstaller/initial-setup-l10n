@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-24 22:28+0100\n"
-"PO-Revision-Date: 2021-09-11 11:04+0000\n"
+"PO-Revision-Date: 2021-09-14 08:04+0000\n"
 "Last-Translator: Ludek Janda <ljanda@redhat.com>\n"
 "Language-Team: Japanese <https://translate.fedoraproject.org/projects/"
 "initial-setup/rhel-8/ja/>\n"
@@ -99,7 +99,7 @@ msgstr "ライセンス契約:"
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr "ライセンス契約に同意します。(_A)"
+msgstr "ライセンス契約に同意します(_A)。"
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
