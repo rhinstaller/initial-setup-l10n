@@ -1,19 +1,21 @@
 # Martin Kolman <mkolman@redhat.com>, 2015. #zanata
 # Michal Konečný <michalkonec666@gmail.com>, 2018. #zanata
+# Pavel Borecki <pavel.borecki@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-24 22:28+0100\n"
-"PO-Revision-Date: 2018-08-10 07:08+0000\n"
-"Last-Translator: Michal Konečný <michalkonec666@gmail.com>\n"
-"Language-Team: Czech\n"
+"PO-Revision-Date: 2021-09-23 09:04+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
+"Language-Team: Czech <https://translate.fedoraproject.org/projects/"
+"initial-setup/rhel-8/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.8\n"
 
 #: ../initial_setup/common.py:140
 msgid ""
@@ -21,7 +23,7 @@ msgid ""
 "You might end up with an unusable system if you do. Unless the License "
 "agreement is accepted, the system will be rebooted."
 msgstr ""
-"Opravdu chcete ukončit počáteční nastavení systému ?\n"
+"Opravdu chcete ukončit počáteční nastavení systému?\n"
 "Výsledkem může být nefunkční systém. Není-li licenční dohoda přijata, bude "
 "systém restartován."
 
@@ -30,7 +32,7 @@ msgid ""
 "Are you sure you want to quit the configuration process?\n"
 "You might end up with unusable system if you do."
 msgstr ""
-"Opravdu chcete ukončit počáteční nastavení systému ?\n"
+"Opravdu chcete ukončit počáteční nastavení systému?\n"
 "Výsledkem může být nefunkční systém."
 
 #: ../initial_setup/common.py:151
