@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-23 17:10+0100\n"
-"PO-Revision-Date: 2021-07-05 12:04+0000\n"
+"PO-Revision-Date: 2021-11-05 12:05+0000\n"
 "Last-Translator: Slimane Selyan Amiri <selyan.kab@gmail.com>\n"
 "Language-Team: Kabyle <https://translate.fedoraproject.org/projects/"
 "initial-setup/master/kab/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.7.1\n"
+"X-Generator: Weblate 4.8\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -37,7 +37,7 @@ msgstr "TURAGT"
 
 #: ../initial_setup/gui/spokes/eula.py:31
 msgid "_License Information"
-msgstr ""
+msgstr "_Talɣut n turagt"
 
 #: ../initial_setup/gui/spokes/eula.py:50
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
