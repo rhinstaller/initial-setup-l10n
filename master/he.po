@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 17:10+0100\n"
+"POT-Creation-Date: 2021-10-12 18:28+0200\n"
 "PO-Revision-Date: 2020-06-22 14:40+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://translate.fedoraproject.org/projects/initial-"
@@ -38,25 +38,25 @@ msgstr ""
 msgid "LICENSING"
 msgstr "רישוי"
 
-#: ../initial_setup/gui/spokes/eula.py:31
+#: ../initial_setup/gui/spokes/eula.py:25
 msgid "_License Information"
 msgstr "_פרטי הרישוי"
 
-#: ../initial_setup/gui/spokes/eula.py:50
+#: ../initial_setup/gui/spokes/eula.py:49
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr "לא נמצא רישיון. נא לדווח על כך בכתובת http://bugzilla.redhat.com"
 
-#: ../initial_setup/gui/spokes/eula.py:89
+#: ../initial_setup/gui/spokes/eula.py:88
 msgid "No license found"
 msgstr "לא נמצא רישיון"
 
-#: ../initial_setup/gui/spokes/eula.py:91
-#: ../initial_setup/tui/spokes/eula.py:62
+#: ../initial_setup/gui/spokes/eula.py:90
+#: ../initial_setup/tui/spokes/eula.py:67
 msgid "License accepted"
 msgstr "הרישוי הוסכם"
 
-#: ../initial_setup/gui/spokes/eula.py:91
-#: ../initial_setup/tui/spokes/eula.py:62
+#: ../initial_setup/gui/spokes/eula.py:90
+#: ../initial_setup/tui/spokes/eula.py:67
 msgid "License not accepted"
 msgstr "הרישוי סורב"
 
@@ -69,17 +69,17 @@ msgstr "הגדרה ראשונית של %(product)s"
 msgid "Initial setup"
 msgstr "הגדרה ראשונית"
 
-#: ../initial_setup/tui/spokes/eula.py:28
+#: ../initial_setup/tui/spokes/eula.py:33
 msgid "License information"
 msgstr "פרטי רישוי"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
-#: ../initial_setup/tui/spokes/eula.py:42
+#: ../initial_setup/tui/spokes/eula.py:47
 msgid "Read the License Agreement"
 msgstr "קריאת הסכם הרישוי"
 
-#: ../initial_setup/tui/spokes/eula.py:45
+#: ../initial_setup/tui/spokes/eula.py:50
 msgid "I accept the license agreement."
 msgstr "הסכם הרישוי מקובל עלי."
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 17:10+0100\n"
+"POT-Creation-Date: 2021-10-12 18:28+0200\n"
 "PO-Revision-Date: 2015-01-14 06:43+0000\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: Interlingua (http://www.transifex.com/projects/p/initial-"
@@ -39,25 +39,25 @@ msgstr ""
 msgid "LICENSING"
 msgstr ""
 
-#: ../initial_setup/gui/spokes/eula.py:31
+#: ../initial_setup/gui/spokes/eula.py:25
 msgid "_License Information"
 msgstr ""
 
-#: ../initial_setup/gui/spokes/eula.py:50
+#: ../initial_setup/gui/spokes/eula.py:49
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr ""
 
-#: ../initial_setup/gui/spokes/eula.py:89
+#: ../initial_setup/gui/spokes/eula.py:88
 msgid "No license found"
 msgstr ""
 
-#: ../initial_setup/gui/spokes/eula.py:91
-#: ../initial_setup/tui/spokes/eula.py:62
+#: ../initial_setup/gui/spokes/eula.py:90
+#: ../initial_setup/tui/spokes/eula.py:67
 msgid "License accepted"
 msgstr ""
 
-#: ../initial_setup/gui/spokes/eula.py:91
-#: ../initial_setup/tui/spokes/eula.py:62
+#: ../initial_setup/gui/spokes/eula.py:90
+#: ../initial_setup/tui/spokes/eula.py:67
 msgid "License not accepted"
 msgstr ""
 
@@ -70,17 +70,17 @@ msgstr ""
 msgid "Initial setup"
 msgstr ""
 
-#: ../initial_setup/tui/spokes/eula.py:28
+#: ../initial_setup/tui/spokes/eula.py:33
 msgid "License information"
 msgstr ""
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
-#: ../initial_setup/tui/spokes/eula.py:42
+#: ../initial_setup/tui/spokes/eula.py:47
 msgid "Read the License Agreement"
 msgstr ""
 
-#: ../initial_setup/tui/spokes/eula.py:45
+#: ../initial_setup/tui/spokes/eula.py:50
 msgid "I accept the license agreement."
 msgstr ""
 

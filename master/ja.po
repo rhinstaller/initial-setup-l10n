@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 17:10+0100\n"
+"POT-Creation-Date: 2021-10-12 18:28+0200\n"
 "PO-Revision-Date: 2021-09-14 08:04+0000\n"
 "Last-Translator: Ludek Janda <ljanda@redhat.com>\n"
 "Language-Team: Japanese <https://translate.fedoraproject.org/projects/"
@@ -43,25 +43,26 @@ msgstr ""
 msgid "LICENSING"
 msgstr "ライセンス"
 
-#: ../initial_setup/gui/spokes/eula.py:31
+#: ../initial_setup/gui/spokes/eula.py:25
 msgid "_License Information"
 msgstr "ライセンス情報(_L)"
 
-#: ../initial_setup/gui/spokes/eula.py:50
+#: ../initial_setup/gui/spokes/eula.py:49
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
-msgstr "ライセンスが見つかりません。http://bugzilla.redhat.com に報告してください"
+msgstr ""
+"ライセンスが見つかりません。http://bugzilla.redhat.com に報告してください"
 
-#: ../initial_setup/gui/spokes/eula.py:89
+#: ../initial_setup/gui/spokes/eula.py:88
 msgid "No license found"
 msgstr "ライセンスが見つかりません"
 
-#: ../initial_setup/gui/spokes/eula.py:91
-#: ../initial_setup/tui/spokes/eula.py:62
+#: ../initial_setup/gui/spokes/eula.py:90
+#: ../initial_setup/tui/spokes/eula.py:67
 msgid "License accepted"
 msgstr "ライセンスに同意"
 
-#: ../initial_setup/gui/spokes/eula.py:91
-#: ../initial_setup/tui/spokes/eula.py:62
+#: ../initial_setup/gui/spokes/eula.py:90
+#: ../initial_setup/tui/spokes/eula.py:67
 msgid "License not accepted"
 msgstr "ライセンスに同意していません"
 
@@ -74,17 +75,17 @@ msgstr "%(product)s の初期セットアップ"
 msgid "Initial setup"
 msgstr "初期セットアップ"
 
-#: ../initial_setup/tui/spokes/eula.py:28
+#: ../initial_setup/tui/spokes/eula.py:33
 msgid "License information"
 msgstr "ライセンス情報"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
-#: ../initial_setup/tui/spokes/eula.py:42
+#: ../initial_setup/tui/spokes/eula.py:47
 msgid "Read the License Agreement"
 msgstr "ライセンス契約をお読みください"
 
-#: ../initial_setup/tui/spokes/eula.py:45
+#: ../initial_setup/tui/spokes/eula.py:50
 msgid "I accept the license agreement."
 msgstr "ライセンス契約に同意します。"
 

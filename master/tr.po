@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 17:10+0100\n"
+"POT-Creation-Date: 2021-10-12 18:28+0200\n"
 "PO-Revision-Date: 2020-06-05 20:40+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/initial-"
@@ -39,26 +39,26 @@ msgstr ""
 msgid "LICENSING"
 msgstr "LİSANSLAMA"
 
-#: ../initial_setup/gui/spokes/eula.py:31
+#: ../initial_setup/gui/spokes/eula.py:25
 msgid "_License Information"
 msgstr "_Lisans Bilgisi"
 
-#: ../initial_setup/gui/spokes/eula.py:50
+#: ../initial_setup/gui/spokes/eula.py:49
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr ""
 "Lisans bulunamadı. Lütfen bunu http://bugzilla.redhat.com adresinden bildirin"
 
-#: ../initial_setup/gui/spokes/eula.py:89
+#: ../initial_setup/gui/spokes/eula.py:88
 msgid "No license found"
 msgstr "Lisans bulunamadı"
 
-#: ../initial_setup/gui/spokes/eula.py:91
-#: ../initial_setup/tui/spokes/eula.py:62
+#: ../initial_setup/gui/spokes/eula.py:90
+#: ../initial_setup/tui/spokes/eula.py:67
 msgid "License accepted"
 msgstr "Lisans kabul edildi"
 
-#: ../initial_setup/gui/spokes/eula.py:91
-#: ../initial_setup/tui/spokes/eula.py:62
+#: ../initial_setup/gui/spokes/eula.py:90
+#: ../initial_setup/tui/spokes/eula.py:67
 msgid "License not accepted"
 msgstr "Lisans kabul edilmedi"
 
@@ -71,17 +71,17 @@ msgstr "%(product)s ilk kurulumu"
 msgid "Initial setup"
 msgstr "İlk kurulum"
 
-#: ../initial_setup/tui/spokes/eula.py:28
+#: ../initial_setup/tui/spokes/eula.py:33
 msgid "License information"
 msgstr "Lisans bilgisi"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
-#: ../initial_setup/tui/spokes/eula.py:42
+#: ../initial_setup/tui/spokes/eula.py:47
 msgid "Read the License Agreement"
 msgstr "Lisans Sözleşmesini Oku"
 
-#: ../initial_setup/tui/spokes/eula.py:45
+#: ../initial_setup/tui/spokes/eula.py:50
 msgid "I accept the license agreement."
 msgstr "Lisans sözleşmesini kabul ediyorum."
 
