@@ -5,21 +5,22 @@
 # Translators:
 # Geert Warrink <geert.warrink@onsnet.nu>, 2013
 # Geert Warrink <geert.warrink@onsnet.nu>, 2018. #zanata
+# Richard E. van der Luit <fedoraproject@veneax.nl>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-12 18:28+0200\n"
-"PO-Revision-Date: 2018-08-29 12:44+0000\n"
-"Last-Translator: Geert Warrink <geert.warrink@onsnet.nu>\n"
-"Language-Team: Dutch (http://www.transifex.com/projects/p/initial-setup/"
-"language/nl/)\n"
+"PO-Revision-Date: 2023-02-17 16:20+0000\n"
+"Last-Translator: Richard E. van der Luit <fedoraproject@veneax.nl>\n"
+"Language-Team: Dutch <https://translate.fedoraproject.org/projects/"
+"initial-setup/master/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -76,33 +77,33 @@ msgstr "Initiële instelling"
 
 #: ../initial_setup/tui/spokes/eula.py:33
 msgid "License information"
-msgstr "Licentie informatie"
+msgstr "Licentie-informatie"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
 #: ../initial_setup/tui/spokes/eula.py:47
 msgid "Read the License Agreement"
-msgstr "Lees de licentie overeenkomst"
+msgstr "Lees de licentie-overeenkomst"
 
 #: ../initial_setup/tui/spokes/eula.py:50
 msgid "I accept the license agreement."
-msgstr "Ik accepteer de licentie overeenkomst."
+msgstr "Ik accepteer de licentie-overeenkomst."
 
 #: tmp/eula.glade.h:1
 msgid "License Information"
-msgstr "Licentie informatie"
+msgstr "Licentie-informatie"
 
 #: tmp/eula.glade.h:2
 msgid "License Agreement:"
-msgstr "Licentie overeenkomst:"
+msgstr "Licentie-overeenkomst:"
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr "Ik _accepteer de licentie overeenkomst."
+msgstr "Ik _accepteer de licentie-overeenkomst."
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
-msgstr "DISTRIBUTIE INSTELLING"
+msgstr "DISTRIBUTIE-INSTELLING"
 
 #: tmp/initial_setup.glade.h:2
 msgid "INITIAL SETUP"
@@ -114,4 +115,4 @@ msgstr "_AFSLUITEN"
 
 #: tmp/initial_setup.glade.h:4
 msgid "_FINISH CONFIGURATION"
-msgstr "_BEËINDIG CONFIGURATIE "
+msgstr "_BEËINDIG CONFIGURATIE"
