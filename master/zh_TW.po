@@ -7,13 +7,14 @@
 # Terry Chuang <tchuang@redhat.com>, 2014
 # Peter Pan <pan93412@gmail.com>, 2018. #zanata
 # Yi-Jyun Pan <pan93412@gmail.com>, 2020.
+# yangyangdaji <1504305527@qq.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-12 18:28+0200\n"
-"PO-Revision-Date: 2020-06-07 06:40+0000\n"
-"Last-Translator: Yi-Jyun Pan <pan93412@gmail.com>\n"
+"PO-Revision-Date: 2023-03-04 04:20+0000\n"
+"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.fedoraproject.org/"
 "projects/initial-setup/master/zh_TW/>\n"
 "Language: zh_TW\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.0.4\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
