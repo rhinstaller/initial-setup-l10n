@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-23 17:10+0100\n"
-"PO-Revision-Date: 2023-03-04 04:20+0000\n"
+"PO-Revision-Date: 2023-03-05 05:24+0000\n"
 "Last-Translator: yangyangdaji <1504305527@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
 "projects/initial-setup/rhel-9/zh_CN/>\n"
@@ -51,11 +51,11 @@ msgstr "许可信息(_L)"
 
 #: ../initial_setup/gui/spokes/eula.py:50
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
-msgstr "未找到许可。请汇报此问题至 http://bugzilla.redhat.com"
+msgstr "未找到许可证。请汇报此问题至 http://bugzilla.redhat.com"
 
 #: ../initial_setup/gui/spokes/eula.py:89
 msgid "No license found"
-msgstr "未找到许可"
+msgstr "未找到许可证"
 
 #: ../initial_setup/gui/spokes/eula.py:91
 #: ../initial_setup/tui/spokes/eula.py:62
