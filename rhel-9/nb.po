@@ -4,21 +4,22 @@
 #
 # Translators:
 # Kjartan Maraas <kmaraas@gnome.org>, 2013
+# A B <pistasjiskrem@outlook.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-23 17:10+0100\n"
-"PO-Revision-Date: 2015-01-14 06:44+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/initial-"
-"setup/language/nb/)\n"
+"PO-Revision-Date: 2023-09-22 15:35+0000\n"
+"Last-Translator: A B <pistasjiskrem@outlook.com>\n"
+"Language-Team: Norwegian Bokmål <https://translate.fedoraproject.org/"
+"projects/initial-setup/rhel-9/nb_NO/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.0.2\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -26,6 +27,9 @@ msgid ""
 "You might end up with an unusable system if you do. Unless the License "
 "agreement is accepted, the system will be rebooted."
 msgstr ""
+"Er du sikker på at du vil avslutte konfigurasjonsprosessen?\n"
+"Det kan hende at du ender opp med en ubrukelig system hvis du gjør dette. "
+"Med mindre du er enig med lisensavtalen, så vil systemet starte på nytt."
 
 #: ../initial_setup/common.py:107
 msgid ""
@@ -38,77 +42,79 @@ msgstr ""
 
 #: ../initial_setup/common.py:115
 msgid "LICENSING"
-msgstr ""
+msgstr "LISENSERING"
 
 #: ../initial_setup/gui/spokes/eula.py:31
 msgid "_License Information"
-msgstr ""
+msgstr "_Lisensinfo"
 
 #: ../initial_setup/gui/spokes/eula.py:50
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr ""
+"Kunne ikke finne lisens. Vennligst rapporter dette på http://bugzilla.redhat."
+"com"
 
 #: ../initial_setup/gui/spokes/eula.py:89
 msgid "No license found"
-msgstr ""
+msgstr "Ingen lisens funnet"
 
 #: ../initial_setup/gui/spokes/eula.py:91
 #: ../initial_setup/tui/spokes/eula.py:62
 msgid "License accepted"
-msgstr ""
+msgstr "Akseptert lisens"
 
 #: ../initial_setup/gui/spokes/eula.py:91
 #: ../initial_setup/tui/spokes/eula.py:62
 msgid "License not accepted"
-msgstr ""
+msgstr "Aksepterte ikke lisens"
 
 #: ../initial_setup/tui/hubs/initial_setup_hub.py:15
 #, python-format
 msgid "Initial setup of %(product)s"
-msgstr ""
+msgstr "Første oppsett av %(product)s"
 
 #: ../initial_setup/tui/hubs/initial_setup_hub.py:17
 msgid "Initial setup"
-msgstr ""
+msgstr "Førstegangs oppsett"
 
 #: ../initial_setup/tui/spokes/eula.py:28
 msgid "License information"
-msgstr ""
+msgstr "Lisensinfo"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
 #: ../initial_setup/tui/spokes/eula.py:42
 msgid "Read the License Agreement"
-msgstr ""
+msgstr "Les lisensavtalen"
 
 #: ../initial_setup/tui/spokes/eula.py:45
 msgid "I accept the license agreement."
-msgstr ""
+msgstr "Jeg godtar lisensavtalen."
 
 #: tmp/eula.glade.h:1
 msgid "License Information"
-msgstr ""
+msgstr "Lisensinfo"
 
 #: tmp/eula.glade.h:2
 msgid "License Agreement:"
-msgstr ""
+msgstr "Lisensavtale:"
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr ""
+msgstr "Jeg _godtar lisensavtalen."
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
-msgstr ""
+msgstr "DISTRIBUSJONOPPSETT"
 
 #: tmp/initial_setup.glade.h:2
 msgid "INITIAL SETUP"
-msgstr ""
+msgstr "FØRSTEGANGS OPPSETT"
 
 #: tmp/initial_setup.glade.h:3
 msgid "_QUIT"
-msgstr ""
+msgstr "_AVSLUTT"
 
 #: tmp/initial_setup.glade.h:4
 msgid "_FINISH CONFIGURATION"
-msgstr ""
+msgstr "A_VSLUTT OPPSETT"
