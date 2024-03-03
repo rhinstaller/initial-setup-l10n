@@ -8,21 +8,22 @@
 # A S Alam <aalam@fedoraproject.org>, 2015. #zanata
 # A S Alam <aalam@fedoraproject.org>, 2019. #zanata
 # A S Alam <amanpreet.alam@gmail.com>, 2021.
+# A S Alam <aalam@users.noreply.translate.fedoraproject.org>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-12 18:28+0200\n"
-"PO-Revision-Date: 2019-01-26 07:43+0000\n"
-"Last-Translator: A S Alam <aalam@fedoraproject.org>\n"
-"Language-Team: Panjabi (Punjabi) (http://www.transifex.com/projects/p/"
-"initial-setup/language/pa/)\n"
+"PO-Revision-Date: 2024-03-04 15:36+0000\n"
+"Last-Translator: A S Alam <aalam@users.noreply.translate.fedoraproject.org>\n"
+"Language-Team: Punjabi <https://translate.fedoraproject.org/projects/"
+"initial-setup/master/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"X-Generator: Weblate 5.4\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -48,7 +49,7 @@ msgstr "ਲਸੰਸ ਬਾਰੇ"
 
 #: ../initial_setup/gui/spokes/eula.py:25
 msgid "_License Information"
-msgstr "ਲਸੰਸ ਜਾਣਕਾਰੀ(_L)"
+msgstr "ਲਸੰਸ ਦੀ ਜਾਣਕਾਰੀ(_L)"
 
 #: ../initial_setup/gui/spokes/eula.py:49
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
@@ -61,12 +62,12 @@ msgstr "ਕੋਈ ਲਸੰਸ ਨਹੀਂ ਲੱਭਿਆ"
 #: ../initial_setup/gui/spokes/eula.py:90
 #: ../initial_setup/tui/spokes/eula.py:67
 msgid "License accepted"
-msgstr "ਲਸੰਸ ਮਨਜ਼ੂਰ ਕੀਤਾ"
+msgstr "ਲਸੰਸ ਮਨਜ਼ੂਰ ਕੀਤਾ"
 
 #: ../initial_setup/gui/spokes/eula.py:90
 #: ../initial_setup/tui/spokes/eula.py:67
 msgid "License not accepted"
-msgstr "ਲਸੰਸ ਮਨਜ਼ੂਰ ਨਹੀਂ ਕੀਤਾ"
+msgstr "ਲਸੰਸ ਮਨਜ਼ੂਰ ਨਹੀਂ ਕੀਤਾ"
 
 #: ../initial_setup/tui/hubs/initial_setup_hub.py:15
 #, python-format
@@ -79,21 +80,21 @@ msgstr "ਸ਼ੁਰੂਆਤੀ ਸੈਟਅਪ"
 
 #: ../initial_setup/tui/spokes/eula.py:33
 msgid "License information"
-msgstr "ਲਸੰਸ ਜਾਣਕਾਰੀ"
+msgstr "ਲਸੰਸ ਜਾਣਾਕਰੀ"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
 #: ../initial_setup/tui/spokes/eula.py:47
 msgid "Read the License Agreement"
-msgstr "ਲਸੰਸ ਇਕਰਾਰਨਾਮਾ ਪੜ੍ਹੋ"
+msgstr "ਲਸੰਸ ਇਕਰਾਰਨਾਮੇ ਨੂੰ ਪੜ੍ਹੋ"
 
 #: ../initial_setup/tui/spokes/eula.py:50
 msgid "I accept the license agreement."
-msgstr "ਮੈਂ ਲਸੰਸ ਇਕਰਾਰਨਾਮੇ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦਾ/ਕਰਦੀ ਹਾਂ।"
+msgstr "ਮੈਂ ਲਸੰਸ ਇਕਰਾਰਨਾਮੇ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦਾ/ਕਰਦੀ ਹਾਂ।"
 
 #: tmp/eula.glade.h:1
 msgid "License Information"
-msgstr "ਲਸੰਸ ਜਾਣਕਾਰੀ"
+msgstr "ਲਸੰਸ ਦੀ ਜਾਣਕਾਰੀ"
 
 #: tmp/eula.glade.h:2
 msgid "License Agreement:"
@@ -101,7 +102,7 @@ msgstr "ਲਸੰਸ ਇਕਰਾਰਨਾਮਾ:"
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr "ਮੈਂ ਲਸੰਸ ਇਕਰਾਰਨਾਮੇ ਨਾਲ ਸਹਿਮਤ ਹਾਂ(_a)।"
+msgstr "ਮੈਂ ਲਸੰਸ ਇਕਰਾਰਨਾਮੇ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦਾ/ਕਰਦੀ ਹਾਂ(_a)।"
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
