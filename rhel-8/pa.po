@@ -7,13 +7,14 @@
 # A S Alam <apreet.alam@gmail.com>, 2013
 # A S Alam <aalam@fedoraproject.org>, 2015. #zanata
 # A S Alam <amanpreet.alam@gmail.com>, 2021, 2022.
+# A S Alam <aalam@users.noreply.translate.fedoraproject.org>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-24 22:28+0100\n"
-"PO-Revision-Date: 2022-04-18 16:17+0000\n"
-"Last-Translator: A S Alam <amanpreet.alam@gmail.com>\n"
+"PO-Revision-Date: 2024-03-04 15:36+0000\n"
+"Last-Translator: A S Alam <aalam@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Punjabi <https://translate.fedoraproject.org/projects/"
 "initial-setup/rhel-8/pa/>\n"
 "Language: pa\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.11.2\n"
+"X-Generator: Weblate 5.4\n"
 
 #: ../initial_setup/common.py:140
 msgid ""
@@ -47,27 +48,27 @@ msgstr "ਲਸੰਸ ਬਾਰੇ"
 
 #: ../initial_setup/tui/spokes/eula.py:30
 msgid "License information"
-msgstr ""
+msgstr "ਲਸੰਸ ਜਾਣਾਕਰੀ"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
 #: ../initial_setup/tui/spokes/eula.py:44
 msgid "Read the License Agreement"
-msgstr ""
+msgstr "ਲਸੰਸ ਇਕਰਾਰਨਾਮੇ ਨੂੰ ਪੜ੍ਹੋ"
 
 #: ../initial_setup/tui/spokes/eula.py:47
 msgid "I accept the license agreement."
-msgstr ""
+msgstr "ਮੈਂ ਲਸੰਸ ਇਕਰਾਰਨਾਮੇ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦਾ/ਕਰਦੀ ਹਾਂ।"
 
 #: ../initial_setup/tui/spokes/eula.py:64
 #: ../initial_setup/gui/spokes/eula.py:96
 msgid "License accepted"
-msgstr ""
+msgstr "ਲਸੰਸ ਮਨਜ਼ੂਰ ਕੀਤਾ"
 
 #: ../initial_setup/tui/spokes/eula.py:64
 #: ../initial_setup/gui/spokes/eula.py:96
 msgid "License not accepted"
-msgstr ""
+msgstr "ਲਸੰਸ ਮਨਜ਼ੂਰ ਨਹੀਂ ਕੀਤਾ"
 
 #: ../initial_setup/tui/hubs/initial_setup_hub.py:14
 #, python-format
@@ -80,7 +81,7 @@ msgstr "ਸ਼ੁਰੂਆਤੀ ਸੈਟਅਪ"
 
 #: ../initial_setup/gui/spokes/eula.py:31
 msgid "_License Information"
-msgstr ""
+msgstr "ਲਸੰਸ ਦੀ ਜਾਣਕਾਰੀ(_L)"
 
 #: ../initial_setup/gui/spokes/eula.py:55
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
@@ -88,19 +89,19 @@ msgstr ""
 
 #: ../initial_setup/gui/spokes/eula.py:94
 msgid "No license found"
-msgstr ""
+msgstr "ਕੋਈ ਲਸੰਸ ਨਹੀਂ ਲੱਭਿਆ"
 
 #: tmp/eula.glade.h:1
 msgid "License Information"
-msgstr ""
+msgstr "ਲਸੰਸ ਦੀ ਜਾਣਕਾਰੀ"
 
 #: tmp/eula.glade.h:2
 msgid "License Agreement:"
-msgstr ""
+msgstr "ਲਸੰਸ ਇਕਰਾਰਨਾਮਾ:"
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr ""
+msgstr "ਮੈਂ ਲਸੰਸ ਇਕਰਾਰਨਾਮੇ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦਾ/ਕਰਦੀ ਹਾਂ(_a)।"
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
