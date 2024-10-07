@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Slimane Selyan Amiri <selyan.kab@gmail.com>, 2021.
 # ButterflyOfFire <butterflyoffire@protonmail.com>, 2024.
+# Rachida SA <rgebbid@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-12 18:28+0200\n"
-"PO-Revision-Date: 2024-10-03 14:38+0000\n"
-"Last-Translator: ButterflyOfFire <butterflyoffire@protonmail.com>\n"
+"PO-Revision-Date: 2024-10-08 11:38+0000\n"
+"Last-Translator: Rachida SA <rgebbid@gmail.com>\n"
 "Language-Team: Kabyle <https://translate.fedoraproject.org/projects/"
 "initial-setup/master/kab/>\n"
 "Language: kab\n"
@@ -25,12 +26,17 @@ msgid ""
 "You might end up with an unusable system if you do. Unless the License "
 "agreement is accepted, the system will be rebooted."
 msgstr ""
+"D tidet tebɣiḍ ad teffɣeḍ seg ukala n twila?\n"
+"Yzmef ad tfakkeḍ s unagraw ur yettwaseqdacen ara. Slid ma yella amtawi n "
+"turagt yettwaqbal, anagraw ad yales tanekkra."
 
 #: ../initial_setup/common.py:107
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
 "You might end up with unusable system if you do."
 msgstr ""
+"D tidet tebɣiḍ ad teffɣeḍ seg ukala n twila?\n"
+"Tzemreḍ ad d-teggriḍ s unagraw ur yettwaseqdacan ara."
 
 #: ../initial_setup/common.py:115
 msgid "LICENSING"
@@ -38,7 +44,7 @@ msgstr "TURAGT"
 
 #: ../initial_setup/gui/spokes/eula.py:25
 msgid "_License Information"
-msgstr "_Talɣut n turagt"
+msgstr "Talɣut n turagt (_L)"
 
 #: ../initial_setup/gui/spokes/eula.py:49
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
@@ -84,19 +90,19 @@ msgstr "Qebleɣ amtawa-nni n turagt."
 
 #: tmp/eula.glade.h:1
 msgid "License Information"
-msgstr "Talɣut ɣef turagt"
+msgstr "Talɣut n turagt"
 
 #: tmp/eula.glade.h:2
 msgid "License Agreement:"
-msgstr ""
+msgstr "Awati n turagt:"
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr ""
+msgstr "Qebleɣ awati n turagt (_a)."
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
-msgstr ""
+msgstr "ASESTEB N USEDGER"
 
 #: tmp/initial_setup.glade.h:2
 msgid "INITIAL SETUP"
