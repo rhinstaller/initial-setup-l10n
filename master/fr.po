@@ -9,21 +9,22 @@
 # José Fournier <jaaf64@zoraldia.com>, 2017. #zanata
 # Ludek Janda <ljanda@redhat.com>, 2018. #zanata
 # Julien Humbert <julroy67@gmail.com>, 2020.
+# Léane GRASSER <leane.grasser@proton.me>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-12 18:28+0200\n"
-"PO-Revision-Date: 2020-06-22 14:40+0000\n"
-"Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
-"Language-Team: French <https://translate.fedoraproject.org/projects/initial-"
-"setup/master/fr/>\n"
+"PO-Revision-Date: 2025-03-05 13:03+0000\n"
+"Last-Translator: Léane GRASSER <leane.grasser@proton.me>\n"
+"Language-Team: French <https://translate.fedoraproject.org/projects/"
+"initial-setup/master/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 5.10.2\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -31,17 +32,19 @@ msgid ""
 "You might end up with an unusable system if you do. Unless the License "
 "agreement is accepted, the system will be rebooted."
 msgstr ""
-"Êtes-vous sur de vouloir quitter le processus de configuration ?\n"
-"Si vous le faites vous pourriez vous retrouver avec un système inutilisable. "
-"À moins que le contrat de licence soit accepté, le système sera redémarré."
+"Voulez-vous vraiment quitter le processus de configuration ?\n"
+"Si vous quittez maintenant, vous pourriez vous retrouver avec un système "
+"inutilisable. Le système sera redémarré à moins que vous n'acceptiez le "
+"contrat de licence."
 
 #: ../initial_setup/common.py:107
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
 "You might end up with unusable system if you do."
 msgstr ""
-"Voulez-vous vraiment quitter le processus de configuration ?\n"
-"Si vous le faites, vous pourriez vous retrouver avec un système inutilisable."
+"Voulez-vous vraiment quitter le processus de configuration ?\n"
+"Si vous quittez maintenant, vous pourriez vous retrouver avec un système "
+"inutilisable."
 
 #: ../initial_setup/common.py:115
 msgid "LICENSING"
@@ -54,12 +57,12 @@ msgstr "_Informations sur la licence"
 #: ../initial_setup/gui/spokes/eula.py:49
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr ""
-"Aucune licence trouvée. Merci de rapporter ce problème sur http://bugzilla."
-"redhat.com"
+"Aucune licence trouvée. Veuillez signaler ce problème à l'adresse "
+"http://bugzilla.redhat.com"
 
 #: ../initial_setup/gui/spokes/eula.py:88
 msgid "No license found"
-msgstr "Licence introuvable"
+msgstr "Aucune licence trouvée"
 
 #: ../initial_setup/gui/spokes/eula.py:90
 #: ../initial_setup/tui/spokes/eula.py:67
@@ -82,13 +85,13 @@ msgstr "Configuration initiale"
 
 #: ../initial_setup/tui/spokes/eula.py:33
 msgid "License information"
-msgstr "Informations de licence"
+msgstr "Informations sur la licence"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
 #: ../initial_setup/tui/spokes/eula.py:47
 msgid "Read the License Agreement"
-msgstr "Lire le contrat de licence"
+msgstr "Lisez le contrat de licence"
 
 #: ../initial_setup/tui/spokes/eula.py:50
 msgid "I accept the license agreement."
@@ -108,11 +111,11 @@ msgstr "J'_accepte le contrat de licence."
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
-msgstr "CONFIGURATION DE LA DISTRIBUTION"
+msgstr "CONFIGURATION DE LA DISTRIBUTION"
 
 #: tmp/initial_setup.glade.h:2
 msgid "INITIAL SETUP"
-msgstr "CONFIGURATION INITIALE"
+msgstr "CONFIGURATION INITIALE"
 
 #: tmp/initial_setup.glade.h:3
 msgid "_QUIT"
@@ -120,4 +123,4 @@ msgstr "_QUITTER"
 
 #: tmp/initial_setup.glade.h:4
 msgid "_FINISH CONFIGURATION"
-msgstr "_FINALISER LA CONFIGURATION"
+msgstr "_TERMINER LA CONFIGURATION"
