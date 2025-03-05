@@ -2,13 +2,15 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Baltazaras Zukauskas <baltazaras.zukauskas@gmail.com>, 2025.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-23 17:10+0100\n"
 "PO-Revision-Date: 2025-03-05 23:33+0000\n"
-"Last-Translator: Baltazaras Zukauskas <baltazaras.zukauskas@gmail.com>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Lithuanian <https://translate.fedoraproject.org/projects/"
 "initial-setup/rhel-9/lt/>\n"
 "Language: lt\n"
@@ -76,42 +78,42 @@ msgstr "Pradinė sąranka"
 
 #: ../initial_setup/tui/spokes/eula.py:28
 msgid "License information"
-msgstr ""
+msgstr "Licencijos informacija"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
 #: ../initial_setup/tui/spokes/eula.py:42
 msgid "Read the License Agreement"
-msgstr ""
+msgstr "Perskaitykite Licencijos sutartį"
 
 #: ../initial_setup/tui/spokes/eula.py:45
 msgid "I accept the license agreement."
-msgstr ""
+msgstr "Sutinku su licencijos sutartimi."
 
 #: tmp/eula.glade.h:1
 msgid "License Information"
-msgstr ""
+msgstr "Informacija apie licenciją"
 
 #: tmp/eula.glade.h:2
 msgid "License Agreement:"
-msgstr ""
+msgstr "Licencijos sutartis:"
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr ""
+msgstr "Aš _sutinku su licencijos sutartimi."
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
-msgstr ""
+msgstr "PASKIRSTYMO SĄRANKA"
 
 #: tmp/initial_setup.glade.h:2
 msgid "INITIAL SETUP"
-msgstr ""
+msgstr "PRADINĖ SĄRANKA"
 
 #: tmp/initial_setup.glade.h:3
 msgid "_QUIT"
-msgstr ""
+msgstr "_IŠEITI"
 
 #: tmp/initial_setup.glade.h:4
 msgid "_FINISH CONFIGURATION"
-msgstr ""
+msgstr "_BAIGTI KONFIGŪRAVIMĄ"
