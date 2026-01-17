@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-23 17:10+0100\n"
-"PO-Revision-Date: 2022-12-29 11:20+0000\n"
+"PO-Revision-Date: 2026-01-18 10:58+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
 "initial-setup/rhel-9/ka/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -79,11 +79,11 @@ msgstr "ინფორმაცის ლიცენზიის შესა�
 #. '[ ]' prepended)
 #: ../initial_setup/tui/spokes/eula.py:42
 msgid "Read the License Agreement"
-msgstr "ლიცენზიის წაკითხვა"
+msgstr "სალიცენზიო შეთანხმების წაკითხვა"
 
 #: ../initial_setup/tui/spokes/eula.py:45
 msgid "I accept the license agreement."
-msgstr "მე ვეთანხმები ლიცენზიას."
+msgstr "მე ვეთანხმები ლიცენზიის პირობებს."
 
 #: tmp/eula.glade.h:1
 msgid "License Information"
