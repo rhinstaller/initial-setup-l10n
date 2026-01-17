@@ -2,22 +2,23 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # joo es <johndevand@tutanota.com>, 2025.
+# joo es <jonnyse@users.noreply.translate.fedoraproject.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-12 18:28+0200\n"
-"PO-Revision-Date: 2025-02-09 17:38+0000\n"
-"Last-Translator: joo es <johndevand@tutanota.com>\n"
-"Language-Team: Arabic <https://translate.fedoraproject.org/projects/"
-"initial-setup/master/ar/>\n"
+"PO-Revision-Date: 2026-01-18 10:58+0000\n"
+"Last-Translator: joo es <jonnyse@users.noreply.translate.fedoraproject.org>\n"
+"Language-Team: Arabic <https://translate.fedoraproject.org/projects/initial-"
+"setup/master/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -25,8 +26,8 @@ msgid ""
 "You might end up with an unusable system if you do. Unless the License "
 "agreement is accepted, the system will be rebooted."
 msgstr ""
-"هل أنت متأكد من أنك تريد ترك عملية التضبيط؟\n"
-"قد ينتهي بك الأمر بنظام غير قابل للاستخدام إذا قمت بذلك. ما لم يتم قبول "
+"أمتأكد من أنك تريد ترك عملية التضبيط؟\n"
+"قد ينتهي بك الأمر بنظام غير قابل للاستخدام إذا فعلت ذلك. ما لم يتم قبول "
 "اتفاقية الترخيص، سيتم إعادة تشغيل النظام."
 
 #: ../initial_setup/common.py:107
@@ -34,8 +35,8 @@ msgid ""
 "Are you sure you want to quit the configuration process?\n"
 "You might end up with unusable system if you do."
 msgstr ""
-"هل أنت متأكد من أنك تريد إنهاء عملية التضبيط؟\n"
-"قد ينتهي بك الأمر بنظام غير قابل للاستخدام إذا قمت بذلك."
+"أمتأكد من أنك تريد ترك عملية التضبيط؟\n"
+"قد ينتهي بك الأمر بنظام غير قابل للاستخدام إذا فعلت ذلك."
 
 #: ../initial_setup/common.py:115
 msgid "LICENSING"
@@ -48,11 +49,11 @@ msgstr "_معلومات الترخيص"
 #: ../initial_setup/gui/spokes/eula.py:49
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
 msgstr ""
-"لم يتم العثور على ترخيص. يُرجى الإبلاغ عن ذلك على https://bugzilla.redhat.com"
+"لم يُعثر على ترخيص. يُرجى الإبلاغ عن ذلك على https://bugzilla.redhat.com"
 
 #: ../initial_setup/gui/spokes/eula.py:88
 msgid "No license found"
-msgstr "لم يتم العثور على ترخيص"
+msgstr "لم يُعثر على ترخيص"
 
 #: ../initial_setup/gui/spokes/eula.py:90
 #: ../initial_setup/tui/spokes/eula.py:67
