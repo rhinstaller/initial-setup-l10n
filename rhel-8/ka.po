@@ -2,19 +2,22 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2026.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-24 22:28+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-01-18 10:58+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
+"initial-setup/rhel-8/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: ../initial_setup/common.py:140
 msgid ""
@@ -22,86 +25,91 @@ msgid ""
 "You might end up with an unusable system if you do. Unless the License "
 "agreement is accepted, the system will be rebooted."
 msgstr ""
+"დარწმუნებული ბრძანდებით, რომ მორგების პროცესიდან გასვლა გნებავთ?\n"
+"ამ ყველაფრის შედეგი იქნება არასტაბილური სისტემა. თუ ლიცენზიას არ დაეთანხმეთ, "
+"სისტემა გადაიტვირთება."
 
 #: ../initial_setup/common.py:144
 msgid ""
 "Are you sure you want to quit the configuration process?\n"
 "You might end up with unusable system if you do."
 msgstr ""
+"დარწმუნებული ბრძანდებით, რომ გნებავთ, მორგების პროცესიდან გახვიდეთ?\n"
+"ამ ყველაფრის შედეგი შეიძლება არასტაბილური სისტემის ქონა გახდეს."
 
 #: ../initial_setup/common.py:151
 msgid "LICENSING"
-msgstr ""
+msgstr "ლიცენზირება"
 
 #: ../initial_setup/tui/spokes/eula.py:30
 msgid "License information"
-msgstr ""
+msgstr "ინფორმაცის ლიცენზიის შესახებ"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
 #: ../initial_setup/tui/spokes/eula.py:44
 msgid "Read the License Agreement"
-msgstr ""
+msgstr "სალიცენზიო შეთანხმების წაკითხვა"
 
 #: ../initial_setup/tui/spokes/eula.py:47
 msgid "I accept the license agreement."
-msgstr ""
+msgstr "მე ვეთანხმები ლიცენზიის პირობებს."
 
 #: ../initial_setup/tui/spokes/eula.py:64
 #: ../initial_setup/gui/spokes/eula.py:96
 msgid "License accepted"
-msgstr ""
+msgstr "ლიცენზია მიღებულია"
 
 #: ../initial_setup/tui/spokes/eula.py:64
 #: ../initial_setup/gui/spokes/eula.py:96
 msgid "License not accepted"
-msgstr ""
+msgstr "ლიცენზია მიღებული არაა"
 
 #: ../initial_setup/tui/hubs/initial_setup_hub.py:14
 #, python-format
 msgid "Initial setup of %(product)s"
-msgstr ""
+msgstr "%(product)s-ების პირველადი მორგება"
 
 #: ../initial_setup/tui/hubs/initial_setup_hub.py:16
 msgid "Initial setup"
-msgstr ""
+msgstr "პირველადი მორგება"
 
 #: ../initial_setup/gui/spokes/eula.py:31
 msgid "_License Information"
-msgstr ""
+msgstr "_ინფორმაცია ლიცენზიაზე"
 
 #: ../initial_setup/gui/spokes/eula.py:55
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
-msgstr ""
+msgstr "ლიცენზია ნაპოვნი არაა. გთხოვთ, მოიწერეთ http://bugzilla.redhat.com-ზე"
 
 #: ../initial_setup/gui/spokes/eula.py:94
 msgid "No license found"
-msgstr ""
+msgstr "ლიცენზია ნაპოვნი არაა"
 
 #: tmp/eula.glade.h:1
 msgid "License Information"
-msgstr ""
+msgstr "ინფორმაცია ლიცენზიის შესახებ"
 
 #: tmp/eula.glade.h:2
 msgid "License Agreement:"
-msgstr ""
+msgstr "სალიცენზიო შეთანხმება:"
 
 #: tmp/eula.glade.h:3
 msgid "I _accept the license agreement."
-msgstr ""
+msgstr "მე _ვეთანხმები სალიცენზიო შეთანხმებას."
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
-msgstr ""
+msgstr "დისტრიბუციის მორგება"
 
 #: tmp/initial_setup.glade.h:2
 msgid "INITIAL SETUP"
-msgstr ""
+msgstr "პირველადი მორგება"
 
 #: tmp/initial_setup.glade.h:3
 msgid "_QUIT"
-msgstr ""
+msgstr "_გასვლა"
 
 #: tmp/initial_setup.glade.h:4
 msgid "_FINISH CONFIGURATION"
-msgstr ""
+msgstr "_მორგების დასრულება"
