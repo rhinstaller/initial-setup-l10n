@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-24 22:28+0100\n"
-"PO-Revision-Date: 2026-01-18 10:58+0000\n"
+"PO-Revision-Date: 2026-02-19 14:58+0000\n"
 "Last-Translator: joo es <jonnyse@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/initial-"
 "setup/rhel-8/ar/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16\n"
 
 #: ../initial_setup/common.py:140
 msgid ""
@@ -44,7 +44,7 @@ msgstr "الترخيص"
 
 #: ../initial_setup/tui/spokes/eula.py:30
 msgid "License information"
-msgstr ""
+msgstr "معلومات الترخيص"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
@@ -77,7 +77,7 @@ msgstr ""
 
 #: ../initial_setup/gui/spokes/eula.py:31
 msgid "_License Information"
-msgstr ""
+msgstr "_معلومات الترخيص"
 
 #: ../initial_setup/gui/spokes/eula.py:55
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
@@ -102,7 +102,7 @@ msgstr "_أوافق على اتفاقية الترخيص."
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
-msgstr ""
+msgstr "إعداد التوزيعة"
 
 #: tmp/initial_setup.glade.h:2
 msgid "INITIAL SETUP"
@@ -110,7 +110,7 @@ msgstr "الإعداد الأولي"
 
 #: tmp/initial_setup.glade.h:3
 msgid "_QUIT"
-msgstr ""
+msgstr "ا_خرُج"
 
 #: tmp/initial_setup.glade.h:4
 msgid "_FINISH CONFIGURATION"
