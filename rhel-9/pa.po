@@ -8,22 +8,22 @@
 # A S Alam <aalam@fedoraproject.org>, 2015. #zanata
 # A S Alam <aalam@fedoraproject.org>, 2019. #zanata
 # A S Alam <amanpreet.alam@gmail.com>, 2021.
-# A S Alam <aalam@users.noreply.translate.fedoraproject.org>, 2024.
+# A S Alam <aalam@users.noreply.translate.fedoraproject.org>, 2024, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-23 17:10+0100\n"
-"PO-Revision-Date: 2024-03-04 15:36+0000\n"
+"PO-Revision-Date: 2026-02-19 14:58+0000\n"
 "Last-Translator: A S Alam <aalam@users.noreply.translate.fedoraproject.org>\n"
-"Language-Team: Punjabi <https://translate.fedoraproject.org/projects/"
-"initial-setup/rhel-9/pa/>\n"
+"Language-Team: Punjabi <https://translate.fedoraproject.org/projects/initial-"
+"setup/rhel-9/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.16\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -53,7 +53,7 @@ msgstr "ਲਸੰਸ ਦੀ ਜਾਣਕਾਰੀ(_L)"
 
 #: ../initial_setup/gui/spokes/eula.py:50
 msgid "No license found. Please report this at http://bugzilla.redhat.com"
-msgstr "ਲਸੰਸ ਨਹੀਂ ਲੱਭਿਆ। ਇਸ ਬਾਰੇ ਜਾਣਕਾਰੀ http://bugzilla.redhat.com ਉੱਤੇ ਦਿਓ"
+msgstr "ਕੋਈ ਲਸੰਸ ਨਹੀਂ ਲੱਭਿਆ। ਇਸ ਬਾਰੇ http://bugzilla.redhat.com ਉੱਤੇ ਰਿਪੋਰਟ ਕਰੋ"
 
 #: ../initial_setup/gui/spokes/eula.py:89
 msgid "No license found"
