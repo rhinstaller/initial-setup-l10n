@@ -1,21 +1,23 @@
 # Jiri Grönroos <jiri.gronroos@iki.fi>, 2015. #zanata, 2022.
 # Juhani Numminen <juhaninumminen0@gmail.com>, 2016. #zanata
 # Jiri Grönroos <jiri.gronroos@iki.fi>, 2018. #zanata, 2022.
+# Jouko Tiilikainen <jti65@users.noreply.translate.fedoraproject.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-12 18:28+0200\n"
-"PO-Revision-Date: 2022-09-08 20:19+0000\n"
-"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
-"Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
-"initial-setup/master/fi/>\n"
+"PO-Revision-Date: 2026-03-13 08:58+0000\n"
+"Last-Translator: Jouko Tiilikainen "
+"<jti65@users.noreply.translate.fedoraproject.org>\n"
+"Language-Team: Finnish <https://translate.fedoraproject.org/projects/initial-"
+"setup/master/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -72,7 +74,7 @@ msgstr "Alkumääritykset"
 
 #: ../initial_setup/tui/spokes/eula.py:33
 msgid "License information"
-msgstr "Lisenssitiedot"
+msgstr "Lisenssi tiedot"
 
 #. make the options aligned to the same column (the checkbox has the
 #. '[ ]' prepended)
