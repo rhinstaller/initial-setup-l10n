@@ -9,13 +9,14 @@
 # Ludek Janda <ljanda@redhat.com>, 2018. #zanata
 # yangyangdaji <1504305527@qq.com>, 2023.
 # 耗子 <haozi@loli.email>, 2026.
+# Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-23 17:10+0100\n"
-"PO-Revision-Date: 2026-04-07 06:58+0000\n"
-"Last-Translator: 耗子 <haozi@loli.email>\n"
+"PO-Revision-Date: 2026-06-20 09:11+0000\n"
+"Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
 "projects/initial-setup/rhel-9/zh_CN/>\n"
 "Language: zh_CN\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #: ../initial_setup/common.py:103
 msgid ""
@@ -32,7 +33,7 @@ msgid ""
 "agreement is accepted, the system will be rebooted."
 msgstr ""
 "您确定要退出配置过程？\n"
-"若是这样做，可能会得到一个无法使用的系统。除非同意许可协议，否则系统将重启。"
+"若是这样做，可能会得到一个无法使用的系统。除非同意许可授权，系统将重启。"
 
 #: ../initial_setup/common.py:107
 msgid ""
