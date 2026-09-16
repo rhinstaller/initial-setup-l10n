@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-24 22:28+0100\n"
-"PO-Revision-Date: 2026-06-19 06:10+0000\n"
+"PO-Revision-Date: 2026-09-17 11:17+0000\n"
 "Last-Translator: ButterflyOfFire "
 "<butterflyoffire@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Kabyle <https://translate.fedoraproject.org/projects/initial-"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2026.6.1\n"
+"X-Generator: Weblate 2026.9.1\n"
 
 #: ../initial_setup/common.py:140
 msgid ""
@@ -102,7 +102,7 @@ msgstr "Qebleɣ awati n tur_agt."
 
 #: tmp/initial_setup.glade.h:1
 msgid "DISTRIBUTION SETUP"
-msgstr ""
+msgstr "TAWILA N USEDGER"
 
 #: tmp/initial_setup.glade.h:2
 msgid "INITIAL SETUP"
